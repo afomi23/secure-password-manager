@@ -3,7 +3,6 @@
 A lightweight and secure web-based password manager created using HTML, CSS, and JavaScript.  
 This tool allows users to safely store and manage their passwords using strong encryption — without storing anything online.
 
-🌐 **Live App**: [https://afomi23.github.io/secure-password-manager/](https://afomi23.github.io/secure-password-manager/)
 
 ---
 
